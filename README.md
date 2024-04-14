@@ -9,6 +9,8 @@ __Программа состоит из:__
 
 ## Установка и запуск
 __Для тестирования необходимо:__
-1. ```git https://github.com/Samoed/text_classification_hackaton.git```
-2. ```cd backend```
-3. ```sudo docker compose up```
+```bash
+   git https://github.com/Samoed/text_classification_hackaton.git
+   cd backend
+   sudo docker compose up
+```
